@@ -1,0 +1,22 @@
+{
+  "name": "fizz-buzz",
+  "version": "1.0.0",
+  "description": "fizz-buzz challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "tdd",
+    "jest"
+  ],
+  "author": "bunty.m.rathod@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-node6": "^11.0.0",
+    "babel-register": "^6.26.0",
+    "jest": "^24.9.0"
+  }
+}
